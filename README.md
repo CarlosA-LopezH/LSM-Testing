@@ -6,6 +6,7 @@ This project is intended as a checkup for different SNN libraries to ensure that
 - SNNTorch (check name)
 - PySNN (check name)
 - Nengo
+- Other libraries from Dr. Andres (AE)
 
 # Tests
 Two tests will be performed to check the Separability (check name) property and the Approximation (check name) property.
